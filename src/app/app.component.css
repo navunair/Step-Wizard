@@ -1,0 +1,13 @@
+app-stepform {
+    display: flex;
+    justify-content: center;
+  }
+
+  app-step {
+    background-color: #e0e0e0; 
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px;
+    text-align: center;
+  }
+  
